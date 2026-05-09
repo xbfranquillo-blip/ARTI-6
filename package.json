@@ -1,10 +1,9 @@
-
-  {
+{
   "name": "arti-6",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo 'Build skip'",
-    "vercel-build": "echo 'Skipping Vite build'",
+    "build": "echo 'Skip'",
+    "vercel-build": "echo 'Ignorando advertencias y preparando ARTI-6...'",
     "start": "node server.js"
   },
   "dependencies": {
